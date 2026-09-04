@@ -7,7 +7,7 @@
 ## Loadstring
 
 ```lua
-loadstring(game:HttpGet(https://raw.githubusercontent.com/CatCloudBox/Bloxstrike/main/init.lua))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/koko29907/Bloxstrike/main/init.lua"))()
 ```
 
 ## Features
